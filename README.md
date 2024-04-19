@@ -1,7 +1,4 @@
-# BLAZERGAMES
-
-*Subscribe to Blazer!!!*
-https://youtube.com/c/blazerhm
+# Corrupted Hub
 
 ## Deployment
 Here are some other deployment options to deploy the site on your own.
